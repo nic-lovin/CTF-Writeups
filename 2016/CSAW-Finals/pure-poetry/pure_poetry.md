@@ -23,12 +23,12 @@ After that, we have to bind the resource to a file, according to this: https://w
 
 Then we obtain the file with the icon.  
 
-[logo]: pure.png
+![Image] (pure.png)  
 
-The thumbnail is too small to see anything. In the description, we remember that we saw the number "128". Let's try to change the size of the thumbnail:  
+The thumbnail is too small to see anything. In the challenge description, we remember that we saw the number "128". Let's try to change the size of it:  
 
-[logo]: pure2.png
+![Image] (pure2.png)
 
 Oh, looks like a datamatrix. Let's scan it and get the flag.
 
-[logo]: pure3.png
+![Image] (pure3.png)
